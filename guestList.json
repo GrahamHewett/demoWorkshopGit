@@ -1,7 +1,8 @@
 {
 	"guestlist": [
 		{
-			"person1": 1,
+			"a": 1,
+			"fake date": "but i need to go home"
 			"b": 2
 		},
 		{
